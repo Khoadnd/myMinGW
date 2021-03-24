@@ -1,0 +1,2 @@
+# myMinGW
+ My local minGW
